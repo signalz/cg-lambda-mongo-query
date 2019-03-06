@@ -1,0 +1,17 @@
+{
+  "name": "cg-lambda-mongo-query",
+  "version": "1.0.0",
+  "description": "lambda function for mongo querying",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon --exec jasmine"
+  },
+  "author": "nns",
+  "license": "ISC",
+  "dependencies": {
+    "jasmine": "^3.3.1",
+    "joi": "^14.3.1",
+    "mongodb": "^3.1.13",
+    "nodemon": "^1.18.10"
+  }
+}
